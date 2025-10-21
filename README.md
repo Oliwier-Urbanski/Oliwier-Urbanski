@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Oli!+👋;I'm+a+Front+End+Developer;I'm+a+Trainee;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Oli!+👋;I'm+a+Dev+Apprentice;)
 <!-- <h1 align="center">Hi 👋, I'm Oli</h1> -->
 
 
