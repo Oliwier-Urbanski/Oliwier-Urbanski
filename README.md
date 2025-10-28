@@ -11,7 +11,7 @@ My focus has been on test automation, including Selenium for web testing and App
 * 🌱 I’m currently learning Frontend Development.
 * 💼 Currently working at **[STRATO](https://www.strato.de/)** as a Trainee using Python.
 * 🌱 Constantly learning and exploring new technologies
-* 📁 Visit my **[Portfolio](#)** to see more of my work
+* 📁 Visit my **[Portfolio](https://oliwier-urbanski.com/)** to see more of my work
 
 ---
 
